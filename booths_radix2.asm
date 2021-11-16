@@ -1,5 +1,4 @@
-#  COA PROJECT Group A4
-#  Course: EC3060D Computer Organization and Architecture
+
 #  Description: 	 
 # Algorithm - This program multiplies two integers using radix 2 booth algorithm	 
 ########################################################### 
