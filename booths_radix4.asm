@@ -1,6 +1,4 @@
-#  COA PROJECT
-#    Group A4
-#  Course: EC3060D Computer Organization and Architecture
+
 #  Description: 	 
 # This program perform booths algorithm for radix 4. 	 
 ###########################################################
